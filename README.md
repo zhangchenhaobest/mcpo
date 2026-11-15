@@ -1,3 +1,29 @@
+# mcpo
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A simple, secure MCP-to-OpenAPI proxy server
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+简单安全的 MCP 到 OpenAPI 代理服务器。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # ⚡️ mcpo
 
 Expose any MCP tool as an OpenAPI-compatible HTTP server—instantly.
